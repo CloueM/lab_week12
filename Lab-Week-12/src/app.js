@@ -33,3 +33,9 @@ function get_avg_grade(){
   }
   return studentsScholarship
 }
+
+
+//Week 12 Part four
+function switch_theme(){
+  document.getElementById('dark-theme').href = '/CSS/style.css';
+}
